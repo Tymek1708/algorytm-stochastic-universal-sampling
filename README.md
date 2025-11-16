@@ -1,1 +1,1 @@
-# algorytm-stochastic-universal-sampling
+# Implementacja algorytmu SUS
